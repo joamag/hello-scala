@@ -1,0 +1,15 @@
+*.log
+*.class
+
+.DS_Store
+
+local.properties
+
+/.gradle
+/.idea/workspace.xml
+/.idea/libraries
+
+/bin
+/target
+/project/project
+/project/target
